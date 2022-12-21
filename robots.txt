@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://diego303.github.io/diegoalbaruiz/sitemap.xml
+Sitemap: https://diego303.github.io/sitemap.xml
