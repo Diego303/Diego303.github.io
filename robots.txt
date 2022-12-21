@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://diego303.github.io/diegoalbaruiz/sitemap.xml
